@@ -6,4 +6,4 @@ This is a entry level project
 While using this make sure you add the .jar files to your library of the project for functionality
 Make sure you have JConnector installed and added before running the code
 
-Created by: Jay Zobalia & Aanchal Thaman
+Created by: Jay Zobalia
